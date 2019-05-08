@@ -1,4 +1,4 @@
-# OpenShift Cloud Native Meetup 
+# OpenShift Cloud Native Workshop 
 
 This is a hands-on lab experience for bulding Cloud Native applications using 
 Red Hat OpenShift Application Runtimes (Spring Boot, WildFly Swarm, Eclipse Vert.x and Node.js) 
