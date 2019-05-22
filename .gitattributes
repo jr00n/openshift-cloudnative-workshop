@@ -10,9 +10,9 @@
 *.css           text diff=css
 *.df            text
 *.htm           text diff=html
-*.html          text diff=html
-*.java          text diff=java
-*.js            text
+*.html          text diff=html linguist-detectable=false
+*.java          text diff=java linguist-detectable=true
+*.js            text linguist-detectable=false
 *.json          text
 *.jsp           text
 *.jspf          text
@@ -23,7 +23,7 @@
 *.txt           text
 *.tag           text
 *.tagx          text
-*.xml           text
+*.xml           text linguist-detectable=false
 *.yml           text
 
 # These files are binary and should be left untouched
