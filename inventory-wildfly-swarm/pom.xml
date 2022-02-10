@@ -15,7 +15,7 @@
         <fabric8.skipResourceValidation>true</fabric8.skipResourceValidation>
         <fabric8.maven.plugin.version>3.5.32</fabric8.maven.plugin.version>
         <h2.version>1.4.187</h2.version>
-        <postgresql.version>9.4.1207</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
     <dependencyManagement>
